@@ -9,7 +9,7 @@ public class DataTypeDemo1 {
 		int sum = num1 + num2;
 		System.out.println("sum of num1 and num2 = " + sum);
 		
-		//done add day 2
+
 		System.out.println("The code is working now...");
 
 		
