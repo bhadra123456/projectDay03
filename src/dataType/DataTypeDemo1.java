@@ -16,6 +16,9 @@ public class DataTypeDemo1 {
 		
 		int sub = num2 - num1;
 		System.out.println("Diff of num2 from num 1 is: " + sub);
+		
+		int mul = num1 * num2;
+		System.out.println("The multiple of "+num1+ " and "+num2+ " is "+mul);
 
 	}
 
