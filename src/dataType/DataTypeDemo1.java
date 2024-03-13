@@ -13,6 +13,9 @@ public class DataTypeDemo1 {
 		System.out.println("The code is working now...");
 
 		System.out.println("This line added in bugfix code");
+		
+		int sub = num2 - num1;
+		System.out.println("Diff of num2 from num 1 is: " + sub);
 
 	}
 
