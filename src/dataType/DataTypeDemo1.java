@@ -12,7 +12,7 @@ public class DataTypeDemo1 {
 
 		System.out.println("The code is working now...");
 
-		
+		System.out.println("This line added in bugfix code");
 
 	}
 
