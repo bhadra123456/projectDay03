@@ -19,6 +19,13 @@ public class DataTypeDemo1 {
 		
 		int mul = num1 * num2;
 		System.out.println("The multiple of "+num1+ " and "+num2+ " is "+mul);
+		
+		//Branch develop2
+		float a = 2;
+		float b = 3;
+		float div = a/b;
+		System.out.println("Div: "+div);
+		
 
 	}
 
